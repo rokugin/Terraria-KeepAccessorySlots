@@ -1,0 +1,50 @@
+Configs: {
+	Item: {
+		DemonSoulTooltip:
+			'''
+			Set to false to stop Demon Soul from dropping from Master Mode Wall of Flesh
+			Default value: true
+			'''
+		DemonSoulLabel: Drop Demon Soul
+	}
+
+	Common: {
+		ProgLabel: Progression Mode
+		ProgTooltip:
+			'''
+			Set to false to disable Progression Mode,
+			overriding the need to unlock the slots before being able to use them in any difficulty
+			Default value: true
+			'''
+		SlotsHeader: Slots
+		ItemHeader: Item
+	}
+
+	Slots: {
+		ExpertLabel: Expert Slot
+		ExpertTooltip:
+			'''
+			Set to true to keep Expert Mode slot unlocked in any difficulty
+			Does not override the need to use the Demon Heart to unlock the slot
+			Default value: true
+			'''
+		MasterLabel: Master Slot
+		MasterTooltip:
+			'''
+			Set to true to keep Master Mode slot unlocked in any difficulty
+			Does not override the need to beat the Wall of Flesh on Master Mode and use the Demon Soul
+			Default value: true
+			'''
+	}
+
+	ClientConfig.DisplayName: Client Config
+	ServerConfig.DisplayName: Server Config
+}
+
+Items: {
+	DemonSoul: {
+		ConsumedTooltip: You have consumed this already
+		DisplayName: Demon Soul
+		Tooltip: Unlocks Master Mode accessory slot in other difficulties
+	}
+}

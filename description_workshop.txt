@@ -1,0 +1,7 @@
+Makes the Expert Mode accessory slot active in all difficulties after unlocking it.
+
+Adds Demon Soul, a new consumable, dropped by the Wall of Flesh in Master Mode.
+Consume to make the Master Mode accessory slot active in all difficulties.
+
+[quote=tModLoader KeepAccessorySlots]
+Developed By rokugin[/quote]

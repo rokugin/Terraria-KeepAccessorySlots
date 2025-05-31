@@ -1,0 +1,3 @@
+displayName = Keep Accessory Slots
+author = rokugin
+version = 1.0.0

@@ -1,0 +1,3 @@
+Makes the Expert Mode accessory slot active in all difficulties after unlocking it.
+
+Adds a consumable drop to Wall of Flesh in Master Mode to make the Master Mode accessory slot active in all difficulties.
